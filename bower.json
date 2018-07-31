@@ -1,19 +1,19 @@
 {
-  "name": "bitcore",
+  "name": "bitcore-QUAR",
   "main": "./bitcore.min.js",
   "version": "0.13.5",
   "homepage": "http://bitcore.io",
   "authors": [
     "BitPay, Inc."
   ],
-  "description": "A pure, powerful core for your bitcoin project.",
+  "description": "A pure, powerful core for your QUAR project.",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "bitcoin",
+    "QUAR",
     "bitcore",
-    "btc",
+    "quar",
     "satoshi"
   ],
   "license": "MIT",
