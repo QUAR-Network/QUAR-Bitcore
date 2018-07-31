@@ -33,7 +33,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore.git"
+    "url": "https://github.com/QUAR-Network/QUAR-bitcore.git"
   },
   "dependencies": {
     "bitcore-lib": "5.0.0-beta.1",
