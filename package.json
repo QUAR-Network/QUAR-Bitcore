@@ -1,7 +1,7 @@
 {
-  "name": "bitcore",
+  "name": "bitcore-QUAR",
   "version": "5.0.0-beta.44",
-  "description": "A platform to build bitcoin and blockchain-based applications.",
+  "description": "A platform to build QUAR and blockchain-based applications.",
   "engines": {
     "node": ">=8.0.0"
   },
@@ -16,7 +16,7 @@
     "bitcored": "./bin/bitcored"
   },
   "keywords": [
-    "bitcoin",
+    "QUAR",
     "transaction",
     "address",
     "p2p",
@@ -33,13 +33,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/QUAR-Network/QUAR-bitcore.git"
+    "url": "https://github.com/bitpay/bitcore.git"
   },
   "dependencies": {
-    "bitcore-lib": "5.0.0-beta.1",
-    "bitcore-node": "5.0.0-beta.44",
-    "insight-api": "5.0.0-beta.44",
-    "insight-ui": "bitpay/insight#v5.0.0-beta.44"
+    "bitcore-lib-QUAR": "^0.13.18",
+    "bitcore-node-QUAR": "~3.0.1",
+    "insight-api-QUAR": "^0.4.1",
+    "insight-ui-QUAR": "^0.4.0"
   },
   "license": "MIT",
   "devDependencies": {
