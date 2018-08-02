@@ -38,7 +38,7 @@
   "dependencies": {
     "bitcore-lib-QUAR": "^0.13.19",
     "bitcore-node-QUAR": "~3.0.1",
-    "insight-api-QUAR": "^0.4.1",
+    "insight-api-QUAR": "^0.4.3",
     "insight-ui-QUAR": "^0.4.0"
   },
   "license": "MIT",
